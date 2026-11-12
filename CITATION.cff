@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ZenESCO: Industrial Skill Taxonomy Maintenance with Graph Perturbation and Decision Support"
+type: software
+authors:
+  - family-names: Kavargyris
+    given-names: Dimitrios Christos
+    affiliation: "School of Informatics, Aristotle University of Thessaloniki"
+  - family-names: Angelis
+    given-names: Lefteris
+    affiliation: "School of Informatics, Aristotle University of Thessaloniki"
+keywords: [ESCO, skill taxonomy, job advertisements, graph perturbation, decision support, Industry 4.0]

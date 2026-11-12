@@ -1,0 +1,18 @@
+# ZenESCO is published as CODE ONLY. Never commit data, results or credentials.
+*.parquet
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.npy
+*.npz
+*.png
+*.pdf
+*.txt
+!requirements.txt
+!assets/*.png
+.env
+__pycache__/
+*.pyc
+.idea/

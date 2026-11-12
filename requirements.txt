@@ -1,0 +1,14 @@
+# ZenESCO - Python 3.8+
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pyarrow
+openpyxl
+networkx
+sentence-transformers   # Stage 2a only
+requests                # data collection only
+tqdm                    # data collection only
+ijson                   # data collection only
+urllib3                 # data collection only
